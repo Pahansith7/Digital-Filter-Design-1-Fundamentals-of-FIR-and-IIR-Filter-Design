@@ -17,4 +17,4 @@ Magnitude Response of the IIR Filter
 
 
 ## Acknowledgments
-This project was completed as part of the BM4152 Bio-Signal Processing course.
+This project was completed as part of the EN2063 Signals and Systems course.
